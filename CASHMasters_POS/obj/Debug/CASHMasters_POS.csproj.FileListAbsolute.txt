@@ -1,0 +1,5 @@
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_POS\bin\Debug\CASHMasters_POS.dll
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_POS\bin\Debug\CASHMasters_POS.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_POS\obj\Debug\CASHMasters_POS.dll
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_POS\obj\Debug\CASHMasters_POS.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_POS\obj\Debug\CASHMasters_POS.csprojResolveAssemblyReference.cache

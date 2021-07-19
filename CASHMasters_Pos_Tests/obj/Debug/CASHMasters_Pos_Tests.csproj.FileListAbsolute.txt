@@ -1,0 +1,8 @@
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\bin\Debug\CASHMasters_Pos_Tests.dll
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\bin\Debug\CASHMasters_Pos_Tests.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\obj\Debug\CASHMasters_Pos_Tests.csprojResolveAssemblyReference.cache
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\obj\Debug\CASHMasters_Pos_Tests.dll
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\obj\Debug\CASHMasters_Pos_Tests.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\bin\Debug\CASHMasters_POS.dll
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\bin\Debug\CASHMasters_POS.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\CASHMasters_Pos_Tests\bin\Debug\CASHMasters_Pos_Tests.dll.config

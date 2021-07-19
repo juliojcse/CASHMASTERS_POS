@@ -1,0 +1,8 @@
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\bin\Debug\POS_Change.exe.config
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\bin\Debug\POS_Change.exe
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\bin\Debug\POS_Change.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\bin\Debug\CASHMasters_POS.dll
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\bin\Debug\CASHMasters_POS.pdb
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\obj\Debug\POS_Change.csprojResolveAssemblyReference.cache
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\obj\Debug\POS_Change.exe
+c:\users\johann\documents\visual studio 2013\Projects\POS_Change\POS_Change\obj\Debug\POS_Change.pdb
